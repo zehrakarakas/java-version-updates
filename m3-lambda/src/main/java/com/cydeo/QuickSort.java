@@ -1,6 +1,6 @@
-package com.cydeo.task;
+package com.cydeo;
 
-public class QuickSort implements Sorting{
+public class QuickSort implements Sorting {
     @Override
     public void sort() {
         System.out.println("Quick Sorting");

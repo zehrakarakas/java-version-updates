@@ -1,6 +1,5 @@
-package com.cydeo.task;
+package com.cydeo;
 
-import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 

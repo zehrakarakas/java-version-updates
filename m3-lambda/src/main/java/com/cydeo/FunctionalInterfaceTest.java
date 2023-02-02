@@ -1,4 +1,7 @@
-package com.cydeo.task;
+package com.cydeo;
+
+import com.cydeo.Apple;
+import com.cydeo.ApplePredicate;
 
 import java.util.function.*;
 
