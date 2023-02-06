@@ -24,6 +24,7 @@ public class CollectorsDemo {
                 .collect(Collectors.toCollection(HashSet::new));
 
         System.out.println(numberSet);
+        System.out.println("=======");
 
         //toList() : returns a Collector interface that gathers the input data into a new list
         List<Integer> numberList2 = numbers.stream()
