@@ -28,7 +28,7 @@ public class OptionalDemo {
      //   System.out.println(bigNumber.get());  //NullPointerException
 
         //orElse
-        System.out.println(bigNumber.orElse(5));
+        System.out.println(bigNumber.orElse(4));
 
 
     }
